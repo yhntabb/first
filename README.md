@@ -32,10 +32,7 @@
               <p><input placeholder="yyyy" oninput="this.className = ''"></p>
             </div>
             
-            <div class="tab">Login Info:
-              <p><input placeholder="Username..." oninput="this.className = ''"></p>
-              <p><input placeholder="Password..." oninput="this.className = ''"></p>
-            </div>
+      
             
             <div style="overflow:auto;">
               <div style="float:right;">
