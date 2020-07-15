@@ -1,6 +1,7 @@
 body{
     background-position: center;
     background-size: cover;
+    background-image: radial-gradient();
     
     height: 100vh;
 
@@ -10,4 +11,7 @@ body{
     width: 360px;
     padding: 10% 0 0;
     margin: auto;
+}
+.tab{
+    background-color: transparent;
 }
