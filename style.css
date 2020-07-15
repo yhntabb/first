@@ -1,6 +1,9 @@
 body{
-    background-color: lightpink;
+    background-position: center;
     background-size: cover;
+    background-image: linear-gradient(rgba(0,0,0,0.6)),url(pic1.jpg);
+    height: 100vh;
+
 }
 .tab{
     width: 360px;
