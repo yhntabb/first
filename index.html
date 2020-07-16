@@ -22,34 +22,19 @@ crossorigin="anonymous"></script>
        
 </head>
     <body>
-       
-         <form name="contact" netlify> 
-           
-           
-             <h1>Register</h1>
-            <!-- One "tab" for each step in the form: -->  
-              <p><input placeholder="First name..." ></p>
-              <p><input placeholder="Last name..." ></p>            
-                   
-              Birthday:
-              <p><input placeholder="dd" ></p>
-              <p><input placeholder="mm" ></p>
-              <p><input placeholder="yyyy" ></p>                
-              <p> 
-               <div>
-              Contact Info:                              
-              <p><input type="email" placeholder="Email Address" /></p>                    
-              <p><input type="text" placeholder="Password" /></p>
-            </p>         
-              <button type="submit">Signup</button>
-            </p>
-          </div>
-           
-           
-            <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-           
-             </form>
-        
+      <form class="email-form" name="newsletter" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+        <div hidden aria-hidden="true">
+          <label>
+            Don’t fill this out if you're human: 
+            <input name="bot-field" />
+          </label>
+        </div>
+        <label for="email">Your email address</label>
+        <div>
+          <input type="email" name="email" placeholder="Email"  id="email" required />
+          <button type="submit">Subscribe</button>
+        </div>
+      </form>
        
      
  </body>
