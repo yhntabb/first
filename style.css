@@ -1,34 +1,8 @@
-body{
-    background-position: center;
-    background-size: cover;
-    background-image: radial-gradient();
-    
-    height: 100vh;
+* {
+
+margin: 0 ;
+padding: 0;
+box-sizing: border-box;
 
 
 }
-.tab{
-    width: 360px;
-    padding: 10% 0 0;
-    margin: auto;
-}
-.tab{
-    background-color: transparent;
-}
-body { 
-    background: url(pic1.jpg) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
-  #bg img {
-    position: absolute; 
-    top: 0; 
-    left: 0; 
-    right: 0; 
-    bottom: 0; 
-    margin: auto; 
-    min-width: 50%;
-    min-height: 50%;
-  }
