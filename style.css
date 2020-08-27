@@ -1,13 +1,8 @@
 * {
-
 margin: 0 ;
 padding: 0;
 box-sizing: border-box;
-
-
 }
-
-
 .navbar{
 
     display: flex;
@@ -27,6 +22,12 @@ nav ul li{
 nav ul{
     display: inline-block;
     margin-right: 20px;
+}
+a{
+    text-decoration: none;
+    color: #5555;
+}
 
-
+p{
+    color: #5555;
 }
