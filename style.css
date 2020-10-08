@@ -54,3 +54,6 @@ p{
     max-width: 100%;
     padding: 50px 0;
 }
+h1{
+    align-items: flex-end;
+}
