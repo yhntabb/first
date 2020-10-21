@@ -18,7 +18,7 @@ nav{
 nav ul li{
     display: inline-block;
     list-style-type: none;
-    margin-left: initial;
+    
 }
 nav ul{
     display: inline-block;
@@ -60,6 +60,6 @@ font-family: cursive;
 font-size: 13px;
 font-weight: lighter;
 margin: 100%;
-margin-left: -50%;
+margin-left: -75%;
 margin-top: -50px;
 } 
