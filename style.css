@@ -6,7 +6,7 @@ box-sizing: border-box;
 .navbar{
 
     display: flex;
-    align-items: left;
+    align-items: inherit;
     padding: 20px;
 
 }
