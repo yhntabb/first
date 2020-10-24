@@ -23,6 +23,9 @@ nav ul li{
     margin: 0px;
     text-align: left;
     margin-left: 100px;
+    font-style: oblique;
+    
+
     
 }
 nav ul{
@@ -41,7 +44,7 @@ p{
     max-width: 1300px;
     margin: auto;
     scroll-padding-left: 25px;
-    padding-right: 25px;
+    padding-right: 0px;
 }
 
 .row{
@@ -62,9 +65,11 @@ p{
 }
 .heads li{
 font-family: cursive;
-font-size: 13px;
+font-size: 14px;
 font-weight: lighter;
 margin: 0%;
 margin-left: -75%;
 margin-top: -50px;
 } 
+
+
