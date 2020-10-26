@@ -19,7 +19,7 @@ nav{
 nav ul li{
     display: inline-block;
     list-style-type: none;
-    padding: 0px;
+    padding: -100px;
     margin: 0px;
     text-align: left;
     margin-left: 100%;
