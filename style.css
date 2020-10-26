@@ -12,8 +12,8 @@ box-sizing: content-box;
 }
 nav{
     flex: 1;
-    text-align: right;
-    align-items: left;
+    text-align: left;
+    align-items: stretch;
 }
 
 nav ul li{
