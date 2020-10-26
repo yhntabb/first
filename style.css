@@ -5,8 +5,8 @@ box-sizing: content-box;
 }
 .navbar{
 
-    display: list-item;
-    align-items: left;
+    display: flex;
+    align-items: flex-start;
     padding: 0%;
 
 }
