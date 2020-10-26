@@ -12,7 +12,7 @@ box-sizing: border-box;
 }
 nav{
     flex: 1;
-    text-align: right;
+    text-align: inherit;
     align-items: stretch;
 }
 
