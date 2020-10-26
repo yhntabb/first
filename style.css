@@ -43,7 +43,7 @@ p{
     color: black;
 }
 .container{
-    max-width: 1300px;
+    max-width: fit-content;
     margin: 0px;
     scroll-padding-left: 25px;
     padding-right: 0px;
