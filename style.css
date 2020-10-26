@@ -1,6 +1,6 @@
 *{
-margin: 0%;
-padding: 0%;
+margin: 0 ;
+padding: 0;
 box-sizing: border-box;
 }
 .navbar{
@@ -22,7 +22,7 @@ nav ul li{
     padding: 0px;
     margin: 0px;
     text-align: left;
-    margin-left: 100%;
+    margin-left: 0%;
     font-style: oblique;
     
 
@@ -48,6 +48,22 @@ p{
     padding-right: 0px;
 }
 
+.row{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.col-2{
+    flex-basis: 50%;
+    min-width: 300px;
+}
+
+.col-2 img{
+    max-width: 100%;
+    padding: 50px 0;
+}
 .heads li{
 font-family: cursive;
 font-size: 14px;
