@@ -5,7 +5,7 @@ box-sizing: content-box;
 }
 .navbar{
 
-    display: grid;
+    display: list-item;
     align-items: left;
     padding: 0%;
 
