@@ -5,5 +5,5 @@ ul{
 }
 .heads{
     text-align: right;
-    padding-top: -50px;
+    padding-top: inherit;
 }
