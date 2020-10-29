@@ -5,18 +5,18 @@ box-sizing: content-box;
 }
 .navbar{
     display: flex;
-    align-items: flex-end;
+    align-items: flex-start;
     padding: 0%;
 
 }
 nav{
     flex: 1;
-    text-align: center;
+    text-align: left;
     align-items: stretch;
 }
 
 nav ul li{
-    display: inline-block;
+    display: list-item;
     list-style-type: none;
     padding: 0px;
     margin: 0px;
