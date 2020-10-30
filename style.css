@@ -8,6 +8,6 @@ ul{
     align-items: stretch;
 
 }
-h1{
-    align-items: flex-start;
+#logo{
+    margin-top: 100%;
 }
