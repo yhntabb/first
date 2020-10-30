@@ -6,4 +6,8 @@ ul{
 .heads{
     text-align: right;
     align-items: stretch;
+
+}
+h1{
+    padding-top: 0%;
 }
