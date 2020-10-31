@@ -2,7 +2,7 @@ ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
-    background-color: #333333;
+  
     overflow: hidden;
     display: inline-block;
 }
@@ -22,7 +22,7 @@ ul{
 .navbar li{
     font-family: cursive;
     align-items: flex-start;
-    
+    background-color: #333333;
 
 }
 li a{
