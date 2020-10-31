@@ -8,14 +8,9 @@ ul{
     align-items: stretch;
 
 }
-
-#logo{
-clear: both;
-margin-top: 20px;
-background-color: #FFF;
-width: 45%;
-height: 75px;
-margin-right: auto;
-margin-left: auto;
-border-radius: 5px;
-}
+.heads li{
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-style: oblique;
+    font-family: cursive;
