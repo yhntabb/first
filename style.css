@@ -21,5 +21,6 @@ ul{
 .navbar li{
     font-family: cursive;
     align-items: flex-start;
+    display: inline-block;
 
 }
