@@ -15,8 +15,8 @@ ul{
     font-style: oblique;
     font-family: cursive;
 }
-.navbar{
+.navbar li{
     font-family: cursive;
     align-items: flex-start;
-    list-style: upper-alpha;
+
 }
