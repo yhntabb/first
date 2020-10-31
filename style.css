@@ -18,4 +18,5 @@ ul{
 .navbar{
     font-family: cursive;
     align-items: flex-start;
+    list-style: upper-alpha;
 }
