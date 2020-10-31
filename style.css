@@ -4,6 +4,7 @@ ul{
     padding: 0;
     display: flex;
     width: 80%;
+    position: sticky;
 }
 .heads{
     text-align: right;
