@@ -4,7 +4,7 @@ ul{
     padding: 0;
     display: flex;
     width: 80%;
-    position: sticky;
+    overflow: hidden;
     display: inline-block;
 }
 .heads{
@@ -25,4 +25,15 @@ ul{
     align-items: flex-start;
     
 
+}
+li a{
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: cadetblue;
 }
