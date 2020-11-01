@@ -49,7 +49,9 @@ li a:hover {
     background-color: teal;
 }
 
-
+section{
+    position: sticky;
+}
 h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
